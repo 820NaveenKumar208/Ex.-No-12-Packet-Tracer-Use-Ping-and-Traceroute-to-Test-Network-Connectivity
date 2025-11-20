@@ -1,6 +1,4 @@
-# Ex. No: 12 – Packet Tracer: Use Ping and Traceroute to Test Network Connectivity
-# Date: 17/11/24
-________________________________________<br>
+# Ex. No: 12 – Packet Tracer: Use Ping and Traceroute to Test Network Connectivity.
 # Objective
 To test and restore IPv4 and IPv6 network connectivity using diagnostic commands (ping and tracert), identify faults, and verify proper routing between end devices in a dual-stack (IPv4 + IPv6) topology.<br>
 Tasks:<br>
